@@ -38,8 +38,12 @@ body{
    padding: 14px;
    border-radius: 6px;
 }
-.header__nav--active {
+.header__nav:hover a {
+    text-decoration: underline;
+ }
+a.header__nav--active {
     background-color: #cbe300;
+    color: #0c1014;
 }
 .main-title{
     font-size: 62px;

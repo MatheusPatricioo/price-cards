@@ -1,13 +1,11 @@
 # Site de Planos Promocionais de Internet
 
-Este é um projeto de estudo desenvolvido com HTML5 e CSS para apresentar planos promocionais de internet. Este projeto é parte de um exercício de prática para demonstrar habilidades em desenvolvimento web.
+Este projeto foi desenvolvido utilizando HTML5 e CSS para criar um site simples, mas eficaz, que apresenta planos promocionais de internet.
 
-## Captura de Tela
+Sinta-se à vontade para baixar o projeto e testá-lo localmente!
+## Imagem do projeto
 
-![Captura de Tela do Site](screenshots/screenshot.png)
-
-
-
+![Captura de Tela do Site](exemplo.png)
 
 ## Como Contribuir
 

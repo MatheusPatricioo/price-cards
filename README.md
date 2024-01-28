@@ -2,9 +2,11 @@
 
 Este é um projeto de estudo desenvolvido com HTML5 e CSS para apresentar planos promocionais de internet. Este projeto é parte de um exercício de prática para demonstrar habilidades em desenvolvimento web.
 
-## Estrutura do Projeto
+## Captura de Tela
 
-O projeto possui a seguinte estrutura de arquivos:
+![Captura de Tela do Site](screenshots/screenshot.png)
+
+
 
 
 ## Como Contribuir

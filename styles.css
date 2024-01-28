@@ -1,0 +1,68 @@
+body{
+    background-color: #0c1014;
+    color: white;
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    display: flex;
+    background-color: #05080a;
+    padding: 16px;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo{
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: left 16px;
+}
+.header__nav {
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    gap: 16px;
+}
+.header-nav__ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    gap: 16px;
+}
+.header__nav a {
+   color: white;
+   text-decoration: none;
+   padding: 14px;
+   border-radius: 6px;
+}
+.header__nav--active {
+    background-color: #cbe300;
+}
+.main-title{
+    font-size: 62px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 46px;
+}
+
+.pricing{
+
+}
+.pricing-plan{
+
+}
+.class-plan__title{
+
+}
+.pricing-plan__price{
+
+}
+.pricing-plan__featues{
+
+}
+.pricing-plan__cta{
+
+}
